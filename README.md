@@ -1,9 +1,12 @@
-- 👋 Hi, I’m @Myralie5
-- 👀 I’m interested in coding!
-- 🌱 I’m currently learning how to actually code things
-- 📫 How to reach me: please don't without my permission
-- 😄 Pronouns: she/her
-- ⚡ Fun fact: I mod stuff because I want all the characters to be happy (:
+- Hi, I’m Myr
+- I’m interested in video games
+- I’m currently learning how to actually code things
+- please don't try to contact me without my permission
+- Pronouns: she/her
+- sometimes I wonder if I'm depressed but probably not
+- and then I start thinking about dying
+- and then I stay awake for three hours thinking 'what happens when you die'
+- thanks a lot, brain
 
 <!---
 Myralie5/Myralie5 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
