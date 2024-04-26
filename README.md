@@ -7,6 +7,7 @@
 - and then I start thinking about dying
 - and then I stay awake for three hours thinking 'what happens when you die'
 - thanks a lot, brain
+- currently alternating between AP3, a private project and Minecraft, so I'm really bad at getting things done.
 
 <!---
 Myralie5/Myralie5 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
