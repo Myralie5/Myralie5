@@ -1,13 +1,13 @@
 - Hi, I’m Myr
 - I’m interested in video games
-- I’m currently learning how to actually code things
+- I’m currently learning Python
 - please don't try to contact me without my permission
 - Pronouns: she/her
 - sometimes I wonder if I'm depressed but probably not
 - and then I start thinking about dying
 - and then I stay awake for three hours thinking 'what happens when you die'
 - thanks a lot, brain
-- currently alternating between AP3, a private project and Minecraft, so I'm really bad at getting things done.
+- currently alternating between AP3, a private project, learning Python and Minecraft, so I'm really bad at getting things done.
 
 <!---
 Myralie5/Myralie5 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
