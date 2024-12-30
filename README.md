@@ -9,6 +9,7 @@
 - thanks a lot, brain
 - currently alternating between AP3, a private project, learning Python and Minecraft, so I'm really bad at getting things done.
 - AP3 refuses to work so I've been tossing it around a lot
+- I am also now working with the wonderful Veenom on a private project!!! Entirely because I cannot draw!!! But they're still awesome!!!
 
 <!---
 Myralie5/Myralie5 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
